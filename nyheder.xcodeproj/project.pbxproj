@@ -260,6 +260,7 @@
 				AAFF3D891CA6A78300F3BD16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
